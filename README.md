@@ -71,5 +71,5 @@ http://localhost:8080
 
 ## 👩‍💻 Author
 
-Shahad Alosemy
+**Shahad Alosaimi**
 Software Engineering Graduate
